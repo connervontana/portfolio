@@ -1,0 +1,77 @@
+
+
+			html {
+				background-color: #D8CEF6;
+                padding-bottom: 40px;
+                padding-top: 20px;
+
+			}
+
+
+
+			body {
+				width: 960px;
+				margin-right: auto;
+				margin-left: auto;
+				margin-top: 30px;
+				background-color: #D3E9BB;
+				text-align: center;
+                padding-bottom: 40px;
+                border: 2px dashed #6E6E6E; 
+                font-family: "Raleway", sans-serif;
+			}
+
+			a {
+		      	color: #000;
+			    font-size: 18px;
+
+			}
+
+			article {
+
+				padding: 0px 100px 0px 100px;
+			}
+
+
+			h1 {
+				font-size: 36px;
+				color: #000;
+                font-family: "Jacquarda Bastarda 9 Charted", serif;
+			}
+
+			h2 {
+				font-size: 16px;
+				color: #666;				
+			}
+
+			p {
+				font-size: 20px;
+				color: #000;	
+			}
+			
+            section img { 
+                padding-top: 40px;
+            }
+
+            nav{
+                font-size: 35px;
+                padding-top: 30px;
+                font-family: "Raleway", sans-serif;
+                text-shadow: 1px 1px #666;
+            }
+
+            ul{
+                list-style-type: none;
+            }
+
+            a:hover{
+                color: #D8CEF6;
+            }
+
+a{ 
+    text-decoration: none;
+}
+
+a href{
+    font-family: "Raleway", sans-serif;
+}
